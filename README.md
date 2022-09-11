@@ -1,1 +1,1 @@
-![Cover](https://media.discordapp.net/attachments/880637892286898256/1018452791540338778/IMG_20220907_222633.jpg?width=662&height=882)
+![nxhdev2002's GitHub stats](https://github-readme-stats.vercel.app/api?username=nxhdev2002&hide=contribs,prs)
